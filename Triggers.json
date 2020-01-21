@@ -1,0 +1,5 @@
+{
+    "testmsg":"test work !",
+    "testmultiline":["test","multiline","work !"],
+    "testprivate":[["Private message work !"],"Pmsg"]
+}

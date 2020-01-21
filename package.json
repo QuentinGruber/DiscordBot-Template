@@ -1,0 +1,26 @@
+{
+  "name": "DiscordBot-Template",
+  "version": "1.0.0",
+  "description": "A Discord bot template",
+  "main": "bot.js",
+  "dependencies": {
+    "@quentingruber/simple-json": "^1.0.1",
+    "discord.js": "^11.5.1",
+    "simple-git": "^1.129.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuentinGruber/DiscordBot-Template.git"
+  },
+  "author": "Qgruber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuentinGruber/DiscordBot-Template/issues"
+  },
+  "homepage": "https://github.com/QuentinGruber/DiscordBot-Template#readme"
+}
